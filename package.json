@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "13.6.0"
+  },
   "name": "photoproject-backend",
   "version": "1.0.0",
   "description": "",
